@@ -1,1 +1,2 @@
-Learning about the Ruby Language to complete a given task
+A Ruby crash tutorial to learn more about Ruby. Tutorial adapted from Mike Dane video
+https://www.youtube.com/watch?v=8wZ2ZD--VTk
